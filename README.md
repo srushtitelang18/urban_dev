@@ -46,6 +46,52 @@ Radius analyzed: 800 meters
 
 ---
 
+
+
+
+## Installation
+
+### Install Required Libraries
+
+Make sure Python is installed on your system.
+Then install the required libraries using pip:
+
+```
+pip install osmnx folium
+```
+
+### Verify Installation
+
+You can check if the libraries are installed correctly by running:
+
+```
+import osmnx
+import folium
+```
+
+If no error appears, the installation is successful.
+
+---
+
 ## How to Run the Project
 
-### 1 Install Required Libraries
+1. Download or clone the repository.
+2. Open terminal or command prompt in the project folder.
+3. Run the following command:
+
+```
+python new3.py
+```
+
+---
+
+## Output
+
+After running the program, the following file will be generated:
+
+```
+clean_urban_map.html
+```
+
+Open this file in a web browser to view the interactive urban analysis map.
+

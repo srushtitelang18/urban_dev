@@ -30,8 +30,7 @@ This project performs the following tasks:
 2. Extracts buildings, roads, parks, and water bodies.
 3. Displays them on an interactive map.
 4. Adds a property location marker.
-5. Creates a buffer zone around the property.
-6. Allows switching between map layers (Satellite, Terrain, OSM).
+5. Allows switching between map layers (Satellite, Terrain, OSM).
 
 ---
 
